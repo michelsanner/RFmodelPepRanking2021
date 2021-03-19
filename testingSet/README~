@@ -1,0 +1,10 @@
+The PDBQT files ni the receptors and peptides folders are the files
+provided by the authors of:
+
+   Robert Rentzsch, Bernhard Y. Renard, Docking small peptides remains a great
+   challenge: an assessment using AutoDock Vina, Briefings in Bioinformatics,
+   Volume 16, Issue 6, November 2015, Pages 1045–1056,
+   https://doi.org/10.1093/bib/bbv008
+
+for convienience we also provide corresponding pdb file where the atoms are
+re-ordered bu residue
