@@ -1,0 +1,10 @@
+This folder contains the 720 RF classifiers trained and evaluated in the following paper
+
+Michel F. Sanner, Leonard Dieguez, Ewa Lis. Improving Docking Power for peptides using Random Forest, JCIM ...
+
+12_TS_splits.xlsx:
+The Excel spread sheet contains the 12 lists of randomly picked complexes used for validation and the corresponding learning set that have 0.7 or less structural similarity with any of the complexes in the validation set.
+
+*.pkl:
+pickled files holding the classifiers, created with Python 3.7 and sklearn 0.24.1
+
